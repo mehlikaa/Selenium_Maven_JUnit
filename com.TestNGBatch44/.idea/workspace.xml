@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef7d5151-9609-41e3-84f8-bfaac2fb0225" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="249mgKHLSJellJyFc5QeoprAhS9" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="TestNG.C07_KeyboardActions">
+    <configuration name="C02_MouseActions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day12" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12.C02_MouseActions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_MouseActions.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day12" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12.C03_MouseActions" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_TestBaseIlkTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day11" />
+      <option name="MAIN_CLASS_NAME" value="tests.day11.C03_TestBaseIlkTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_KeyboardActions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day12" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12.C06_KeyboardActions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_KeyboardActions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNGBatch44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day12" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12.C07_KeyboardActions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C07_KeyboardActions" />
+        <item itemvalue="TestNG.C06_KeyboardActions" />
+        <item itemvalue="TestNG.C03_MouseActions.test01" />
+        <item itemvalue="TestNG.C02_MouseActions" />
+        <item itemvalue="TestNG.C03_TestBaseIlkTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef7d5151-9609-41e3-84f8-bfaac2fb0225" name="Changes" comment="" />
+      <created>1643051289399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643051289399</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/day08/C01_Notations.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
